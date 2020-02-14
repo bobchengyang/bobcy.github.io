@@ -1,6 +1,6 @@
 
 
-![](https://github.com/bobchengyang/bobcy.github.io/workflows/CI/badge.svg) ![](https://github.com/fastai/fastpages/workflows/GH-Pages%20Status/badge.svg)  [![](https://img.shields.io/static/v1?label=&message=View%20Demo%20Site&color=inactive&style=plastic)](https://fastai.github.io/fastpages/)
+![](https://github.com/bobchengyang/bobcy.github.io/workflows/CI/badge.svg) ![](https://github.com/bobchengyang/bobcy.github.io/workflows/GH-Pages%20Status/badge.svg)  [![](https://img.shields.io/static/v1?label=&message=View%20Demo%20Site&color=inactive&style=plastic)](https://bobcy.github.io/fastpages/)
 
 # Welcome To `fastpages`
 
